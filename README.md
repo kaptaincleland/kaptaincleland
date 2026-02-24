@@ -60,18 +60,9 @@ A Database dashboard i did as an end of semester project at GCTU.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kaptaincleland&show_icons=true&theme=react" alt="GitHub Stats" />
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://streak-stats.demolab.com/?user=kaptaincleland&theme=react" alt="GitHub Streak" />
-  </span>
-  <span style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaptaincleland&show_icons=true&locale=en&layout=compact&theme=react" alt="kaptaincleland" />
-  </span>
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=kaptaincleland&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kaptaincleland&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaptaincleland&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌱 Currently Learning
 
