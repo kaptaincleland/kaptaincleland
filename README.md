@@ -46,82 +46,55 @@ A Database dashboard i did as an end of semester project at GCTU.
 ![HTML](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+...
 
 ### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aglago&show_icons=true&theme=react" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kaptaincleland&show_icons=true&theme=react" alt="GitHub Stats" />
   </span>
   <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://streak-stats.demolab.com/?user=aglago&theme=react" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=kaptaincleland&theme=react" alt="GitHub Streak" />
   </span>
   <span style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aglago&show_icons=true&locale=en&layout=compact&theme=react" alt="aglago" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaptaincleland&show_icons=true&locale=en&layout=compact&theme=react" alt="kaptaincleland" />
   </span>
 </p>
 
 
 ## 🌱 Currently Learning
 
-- Advanced Java and Spring Boot ecosystem
-- Microservices architecture
-- System design patterns  
-- Cloud-native development with AWS
-- Advanced testing strategies
-
+- Advanced javascript
+- Database development
+- System design patterns
+  
 ## 💼 Professional Experience
 
-- **TLC Trainee** at turntabl (Aug 2025 - Present)
-- **Software Developer** at Dove-Eloyna Int'l Ltd (Mar 2025 - Sep 2025)
-- **Software Developer** at aeTech Digital Hub (Apr 2025 - Jul 2025)
-- **Founder** at This Team (Sep 2023 - Dec 2024)
 
 ## 🤝 Open to
 
-- Full-stack developer positions
 - E-commerce and fintech opportunities
-- API development and integration projects
 - Collaborative open-source projects
-- Mentoring junior developers
+- Mentoring 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [linkedin.com/in/aglago](https://www.linkedin.com/in/aglago)
-- Email: samuellamanyeaglago@gmail.com
-- Portfolio: [samuella.site](https://www.samuella.site)
-- WhatsApp: [Chat with me](https://wa.me/233509581027)
-- Twitter: [@smaglago](https://x.com/smaglago)
+- Email: kaptaincleland@gmail.com
+- Portfolio: [Kaptaincleland.io](https://kaptaincleland.github.io/Kaptaincleland.io/)
+- WhatsApp: [Chat with me](https://wa.me/233559714595)
+- Twitter: [@nco45nco](https://x.com/nco45nco)
 
 ---
 
-⭐️ From [aglago](https://github.com/aglago)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [aglago](https://github.com/kaptaincleland)
