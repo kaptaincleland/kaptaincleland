@@ -3,8 +3,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Nesta45)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react)](https://kaptaincleland.github.io/Kaptaincleland.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kaptaincleland@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaptain_cleland)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nco45nco)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaptain_cleland)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nco45nco)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/233559714595)
 
 ## Full-Stack Software Engineer(In the making)
@@ -43,7 +43,7 @@ A Database dashboard i did as an end of semester project at GCTU.
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/-css-3178C6?style=flat-square&logo=css&logoColor=white)
-![HTML](https://img.shields.io/badge/-html-ED8B00?style=flat-square&logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
