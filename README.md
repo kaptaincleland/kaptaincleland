@@ -88,4 +88,4 @@ A Database dashboard i did as an end of semester project at GCTU.
 
 ---
 
-⭐️ From [aglago](https://github.com/kaptaincleland)
+⭐️ From [Nesta](https://github.com/kaptaincleland)
