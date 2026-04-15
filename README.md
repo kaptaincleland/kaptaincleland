@@ -15,10 +15,10 @@ Currently learning all the required skills to become a software developer.
 const nesta = {
   code: ['JavaScript', 'HTML', 'CSS', 'TypeScript'],
   technologies: {
-    frontend: ['Bootstrap', 'Tailwindcss', 'Responsive Design'],
-    backend: [...],
+    frontend: ['Next.js', 'Bootstrap', 'Tailwindcss', 'Responsive Design'],
+    backend: ['Node.js'],
     database: ['MySQL,PostgreSQL'],
-    tools: ['Git', 'GitHub', 'VS Code', 'CloudFlare'],
+    tools: ['Git', 'GitHub', 'VS Code', 'CloudFlare', 'Vercel'],
   },
   specializations: ['E-commerce Platforms'],
   currentFocus: 'learning Node.js',
