@@ -13,11 +13,11 @@ Currently learning all the required skills to become a software developer.
 
 ```javascript
 const nesta = {
-  code: ['JavaScript', 'HTML', 'CSS'],
+  code: ['JavaScript', 'HTML', 'CSS', 'TypeScript'],
   technologies: {
-    frontend: ['Bootstrap', 'Responsive Design'],
+    frontend: ['Bootstrap', 'Tailwindcss', 'Responsive Design'],
     backend: [...],
-    database: ['MySQL'],
+    database: ['MySQL,PostgreSQL'],
     tools: ['Git', 'GitHub', 'VS Code', 'CloudFlare'],
   },
   specializations: ['E-commerce Platforms'],
